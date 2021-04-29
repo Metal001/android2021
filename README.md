@@ -90,6 +90,7 @@ Application utiliser:
 - pm uninstall -k --user 0 com.android.calendar
 - pm uninstall -k --user 0 com.android.chrome
 - pm uninstall -k --user 0 com.android.email
+- pm uninstall -k --user 0 com.android.fileexplorer
 - pm uninstall -k --user 0 com.mi.health
 - pm uninstall -k --user 0 com.miui.calculator
 - pm uninstall -k --user 0 com.miui.compass
