@@ -103,3 +103,9 @@ Application utiliser:
 - pm uninstall -k --user 0 com.miui.notes
 - pm uninstall -k --user 0 com.miui.weather2
 - pm uninstall -k --user 0 com.xiaomi.midrop
+- pm uninstall -k --user 0 com.xiaomi.payment
+- pm uninstall -k --user 0 com.miui.newmidrive
+- pm uninstall -k --user 0 com.miui.cloudbackup
+- pm uninstall -k --user 0 cn.wps.moffice_eng.xiaomi.lite
+-  
+- 
