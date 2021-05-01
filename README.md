@@ -85,6 +85,7 @@ Application utiliser:
 - pm uninstall -k --user 0 com.android.quicksearchbox
 
 #(XiomieApp)
+- pm uninstall -k --user 0 cn.wps.moffice_eng.xiaomi.lite
 - pm uninstall -k --user 0 cn.wps.xiaomi.abroad.lite
 - pm uninstall -k --user 0 com.android.browser
 - pm uninstall -k --user 0 com.android.calendar
@@ -94,18 +95,15 @@ Application utiliser:
 - pm uninstall -k --user 0 com.android.mms
 - pm uninstall -k --user 0 com.mi.health
 - pm uninstall -k --user 0 com.miui.calculator
+- pm uninstall -k --user 0 com.miui.cloudbackup
 - pm uninstall -k --user 0 com.miui.compass
 - pm uninstall -k --user 0 com.miui.fm
 - pm uninstall -k --user 0 com.miui.huanji
 - pm uninstall -k --user 0 com.miui.miservice
 - pm uninstall -k --user 0 com.miui.miwallpaper.earth
 - pm uninstall -k --user 0 com.miui.miwallpaper.mars
+- pm uninstall -k --user 0 com.miui.newmidrive
 - pm uninstall -k --user 0 com.miui.notes
 - pm uninstall -k --user 0 com.miui.weather2
 - pm uninstall -k --user 0 com.xiaomi.midrop
 - pm uninstall -k --user 0 com.xiaomi.payment
-- pm uninstall -k --user 0 com.miui.newmidrive
-- pm uninstall -k --user 0 com.miui.cloudbackup
-- pm uninstall -k --user 0 cn.wps.moffice_eng.xiaomi.lite
--  
-- 
