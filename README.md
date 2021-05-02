@@ -50,6 +50,8 @@ Application utiliser:
 - [PhotoGoogle](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
 - [ProtonMail](https://play.google.com/store/apps/details?id=ch.protonmail.android)
 - [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage&hl=fr&gl=US)
+- [Simple Contact](https://f-droid.org/fr/packages/com.simplemobiletools.contacts.pro)
+- [Simple Dialer](https://f-droid.org/fr/packages/com.simplemobiletools.dialer)
 - [Snap](https://play.google.com/store/apps/details?id=com.snapchat.android)
 - [Spotify]
 - [SwiftKey](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey&hl=fr&gl=US)
