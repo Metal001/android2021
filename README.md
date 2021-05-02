@@ -88,6 +88,7 @@ Application utiliser:
 
 #(XiomieApp)
 - pm uninstall -k --user 0 cn.wps.moffice_eng.xiaomi.lite
+- pm uninstall -k --user 0 com.miui.gallery
 - pm uninstall -k --user 0 cn.wps.xiaomi.abroad.lite
 - pm uninstall -k --user 0 com.android.browser
 - pm uninstall -k --user 0 com.android.calendar
