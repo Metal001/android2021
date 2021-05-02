@@ -61,6 +61,7 @@ Application utiliser:
 - [Twitter](https://play.google.com/store/apps/details?id=com.twitter.android)
 - [Whatapp](https://play.google.com/store/apps/details?id=com.whatsapp&hl=fr&gl=US)
 - [YoutubeVanced](https://vancedapp.com)
+- https://f-droid.org/fr/packages/com.simplemobiletools.gallery.pro/
 
 2.3. ## liste des modules
 - Hide root
