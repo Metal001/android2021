@@ -53,7 +53,7 @@ Application utiliser:
 - [Google Contact](https://play.google.com/store/apps/details?id=com.google.android.contacts&hl=fr&gl=US)
 - [Google Dialer](https://play.google.com/store/apps/details?id=com.google.android.dialer&hl=fr&gl=US)
 - [Snap](https://play.google.com/store/apps/details?id=com.snapchat.android)
-- [Spotify]
+- [Spotify XManager](https://github.com/xManager-v2/xManager-Spotify/releases)
 - [SwiftKey](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey&hl=fr&gl=US)
 - [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=fr&gl=US)
 - [Terminal](https://play.google.com/store/apps/details?id=com.termux&hl=fr&gl=US)
