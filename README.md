@@ -62,6 +62,9 @@ Application utiliser:
 - [Whatapp](https://play.google.com/store/apps/details?id=com.whatsapp&hl=fr&gl=US)
 - [YoutubeVanced](https://vancedapp.com)
 - [Simple Gallery Pro](https://f-droid.org/fr/packages/com.simplemobiletools.gallery.pro/)
+- [Dealabs](https://play.google.com/store/apps/details?id=com.dealabs.apps.android&hl=fr&gl=US)
+- [AmazFaces](https://play.google.com/store/apps/details?id=com.amazfitwatchfaces.st&hl=fr&gl=US)
+
 
 2.3. ## liste des modules
 - Hide root
