@@ -71,10 +71,13 @@ Application utiliser:
 - xmlpak
 
 5. ## Commande Adb pour désinstaller des applications android :
+      
+      *Installe un clavier avant de faire un pm uninstall
+      
 - adb shell
 - pm list packages -f (non de l'appe a desinstallé)
 - pm uninstall --user 0 (non de l'app)
-*Installe un clavier avant de faire un pm uninstall
+
 
 
 5.1. Commande pour supprimer tous les bloatwares :
