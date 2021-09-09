@@ -63,7 +63,7 @@ Application utiliser:
 - [ProtonMail](https://play.google.com/store/apps/details?id=ch.protonmail.android)
 - [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage&hl=fr&gl=US)
 - [SecScanQR](https://f-droid.org/en/packages/de.t_dankworth.secscanqr/)
-- [Simple Gallery Pro](https://f-droid.org/fr/packages/com.simplemobiletools.gallery.pro/)
+- [Simple Gallery Pro](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery&hl=fr&gl=US)
 - [Sketchbook](https://play.google.com/store/apps/details?id=com.adsk.sketchbook&hl=fr&gl=US)
 - [Snap](https://play.google.com/store/apps/details?id=com.snapchat.android)
 - [Spotify XManager](https://github.com/xManager-v2/xManager-Spotify/releases)
