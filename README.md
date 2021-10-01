@@ -58,10 +58,13 @@ Application utiliser:
 - [Neutron Music Player](https://play.google.com/store/apps/details?id=com.neutroncode.mpeval&hl=fr&gl=US)
 - [Noice : Ambiances](https://play.google.com/store/apps/details?id=com.github.ashutoshgngwr.noice&hl=fr&gl=US)
 - [NovaLauncher](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher)
+- [Olympia Pro](https://play.google.com/store/apps/details?id=com.techbull.olympia.paid)
 - [PDF VIEWER](https://f-droid.org/fr/packages/com.gsnathan.pdfviewer/)
+- [Paypal](https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile&hl=fr&gl=US)
 - [PhotoGoogle](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
 - [ProtonMail](https://play.google.com/store/apps/details?id=ch.protonmail.android)
 - [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage&hl=fr&gl=US)
+- [Routine](https://play.google.com/store/apps/details?id=com.alt.goodmorning&hl=fr&gl=US)
 - [SecScanQR](https://f-droid.org/en/packages/de.t_dankworth.secscanqr/)
 - [Simple Gallery Pro](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery&hl=fr&gl=US)
 - [Sketchbook](https://play.google.com/store/apps/details?id=com.adsk.sketchbook&hl=fr&gl=US)
@@ -75,7 +78,8 @@ Application utiliser:
 - [Twitter](https://play.google.com/store/apps/details?id=com.twitter.android)
 - [Whatapp](https://play.google.com/store/apps/details?id=com.whatsapp&hl=fr&gl=US)
 - [Youtube Vanced](https://vancedapp.com)
-
+- [luckypatchers](https://www.luckypatchers.com/download/)
+- [reddit](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit&hl=fr&gl=US)
 
 2.3. ## liste des modules
 - Hide root
