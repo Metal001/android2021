@@ -133,4 +133,3 @@ Application utiliser:
 - pm uninstall -k --user 0 com.miui.weather2
 - pm uninstall -k --user 0 com.xiaomi.midrop
 - pm uninstall -k --user 0 com.xiaomi.payment
-- pm uninstall --user 0 com.android.contacts
