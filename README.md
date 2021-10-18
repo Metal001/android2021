@@ -101,7 +101,6 @@ Application utiliser:
 - pm uninstall -k --user 0 com.google.android.apps.docs.editors.docs
 - pm uninstall -k --user 0 com.google.android.apps.photos
 - pm uninstall -k --user 0 com.google.android.googlequicksearchbox
-- pm uninstall -k --user 0 com.google.android.inputmethod.latin
 - pm uninstall -k --user 0 com.google.android.music
 - pm uninstall -k --user 0 com.google.android.projection.gearhead
 - pm uninstall -k --user 0 com.google.android.videos
@@ -118,7 +117,6 @@ Application utiliser:
 - pm uninstall -k --user 0 com.android.chrome
 - pm uninstall -k --user 0 com.android.email
 - pm uninstall -k --user 0 com.android.fileexplorer
-- pm uninstall -k --user 0 com.android.mms
 - pm uninstall -k --user 0 com.mi.health
 - pm uninstall -k --user 0 com.miui.calculator
 - pm uninstall -k --user 0 com.miui.cloudbackup
