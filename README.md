@@ -108,6 +108,8 @@ Application utiliser:
 - pm uninstall -k --user 0 com.google.ar.lens
 - pm uninstall -k --user 0 com.android.chrome
 - pm uninstall -k --user 0 com.android.quicksearchbox
+- pm uninstall --user 0 com.google.android.apps.subscriptions.red 
+- pm uninstall --user 0 com.google.android.apps.googleassistant
 
 #(XiomieApp)
 - pm uninstall -k --user 0 cn.wps.moffice_eng.xiaomi.lite
@@ -133,3 +135,4 @@ Application utiliser:
 - pm uninstall -k --user 0 com.xiaomi.payment
 - pm uninstall -k --user 0 com.mi.globalbrowser
 - pm uninstall -k --user 0 com.miui.player
+- 
