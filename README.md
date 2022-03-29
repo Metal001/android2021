@@ -135,4 +135,11 @@ Application utiliser:
 - pm uninstall -k --user 0 com.xiaomi.payment
 - pm uninstall -k --user 0 com.mi.globalbrowser
 - pm uninstall -k --user 0 com.miui.player
-- 
+- pm uninstall -k --user 0 com.opera.browser
+- pm uninstall -k --user 0 com.opera.preinstall
+- pm uninstall -k --user 0 com.agoda.mobile.consumer
+- pm uninstall -k --user 0 com.alibaba.aliexpresshd
+- pm uninstall -k --user 0 com.amazon.appmanager
+- pm uninstall -k --user 0 com.amazon.mp3
+- pm uninstall -k --user 0 com.amazon.mShop.android.shopping
+- pm uninstall -k --user 0 com.sukhavati.gotoplaying.bubble.BubbleShooter.mint
