@@ -97,6 +97,14 @@ Application utiliser:
 
 5.1. Commande pour supprimer tous les bloatwares :
 (GoogleApp)
+
+
+
+-
+-
+- pm uninstall -k --user 0 com.google.android.gm 
+- pm uninstall -k --user 0 com.google.android.calendar
+- pm uninstall -k --user 0 com.google.android.apps.maps
 - pm uninstall -k --user 0 com.google.android.apps.cloudprint
 - pm uninstall -k --user 0 com.google.android.apps.docs.editors.docs
 - pm uninstall -k --user 0 com.google.android.apps.photos
